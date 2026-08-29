@@ -1,0 +1,24 @@
+[global]
+UIName = Ultimate Apocalypse Dark Crusade Campaign
+Description = The Apocalypse project, developed by the Apocalypse mod team.
+DllName = DXP2Mod
+Playable = 1
+ModFolder = UltimateApocalypse_THB_test
+ModVersion = 1.89.55c
+TextureFE = Art/UI/Textures/Title_winter_assault.tga
+TextureIcon =
+RuntimeMode = 2
+
+DataFolder.1 = Data
+
+RequiredMod.1 = UA_DE
+RequiredMod.2 = DXP2
+RequiredMod.3 = WXP
+RequiredMod.4 = W40k
+RequiredMod.5 = Tyranids_Art
+
+
+
+
+
+

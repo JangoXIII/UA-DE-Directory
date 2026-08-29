@@ -1,0 +1,11 @@
+[global]
+
+UIName = Tyranid Mod - Art
+Description = The Tyranid Mod for Soulstorm. Art content.
+DllName = WXPMod
+Playable = 0
+ModFolder = Tyranids_Art
+ModVersion = 0.5
+RuntimeMode = 3
+
+DataFolder.1 = Data

@@ -1,0 +1,26 @@
+[global]
+UIName = Ultimate Apocalypse DE
+Description = The Apocalypse project, developed by the Apocalypse mod team.
+DllName = DXP3Mod
+Playable = 1
+ModFolder = UltimateApocalypse_THB_test
+ModVersion = 1.89.55b
+TextureFE = Art/UI/Textures/Title_winter_assault.tga
+TextureIcon =
+RuntimeMode = 3
+UseLegacyCampaignList = 1
+
+DataFolder.1 = Data
+
+RequiredMod.1 = DoWDE
+RequiredMod.2 = DXP3
+RequiredMod.3 = DXP2
+RequiredMod.4 = WXP
+RequiredMod.5 = W40k
+RequiredMod.6 = Tyranids_Art
+
+
+
+
+
+
